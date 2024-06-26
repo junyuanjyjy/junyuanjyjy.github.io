@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life Updates
-subtitle: Each post also has a subtitle
+subtitle: Just a record
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -33,5 +33,8 @@ I have been going through a lot of job applications. Here are some of the questi
 **Data storage and processing**: The Import method stores the data within the Power BI file, while DirectQuery retrieves the data directly from the data source in real time. This means that with Import, you have more control over the data and can create complex data models, but it may not be suitable for very large data sets. With DirectQuery, the data is not stored in Power BI, so it can handle large data sets, but it may not be as flexible in terms of creating complex data models.
 **Performance**: The Import method can offer better performance than DirectQuery, as the data is stored locally and can be optimized for performance. DirectQuery may be slower in some cases, as it relies on the performance of the data source and network connectivity.
 **Data transformations**: The Import method allows for more advanced data transformations and modeling, as you can use Power Query to transform and shape the data before importing it. With DirectQuery, you can only use the data available in the data source without the ability to apply transformations within Power BI.
+
+
+
 
 
