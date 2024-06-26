@@ -1,12 +1,19 @@
 ---
 layout: post
-title: Sample blog post
+title: Life Updates
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
+
+In exactly a year ago, I was laid off. Since then, I have been doing a bunch of stuffs and trying out different things. 
+
+1) [AI Safety Camp](https://aisafety.camp/)
+2) 
+
+
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
